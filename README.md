@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...this()
 - 💞️ I’m looking to collaborate on ....this("")
 - 📫 ow to reach me *.this(\"\\\\")
+- https://www.buymeacoffee.com/deadjdona?via=deadjdona 
 
 <!--- deadjdona/deadjdona is ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click Preview link to take look at your changes. --->
